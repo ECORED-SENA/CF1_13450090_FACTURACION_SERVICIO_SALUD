@@ -1,0 +1,15 @@
+<svg id="Grupo_1100703" data-name="Grupo 1100703" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="820" height="423.024" viewBox="0 0 820 423.024">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_402553" data-name="Rectángulo 402553" width="820" height="423.024" rx="20" fill="#30169a"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectángulo_402550" data-name="Rectángulo 402550" width="820" height="423.024" rx="20" fill="#30169a"/>
+  <g id="Enmascarar_grupo_1098714" data-name="Enmascarar grupo 1098714" clip-path="url(#clip-path)">
+    <g id="Grupo_1100695" data-name="Grupo 1100695" transform="translate(641.091 -74.536)">
+      <path id="Unión_47" data-name="Unión 47" d="M0,327.277,286.477,0l2,2.817L572.678,327.5,449.552,501l-162.7-185.872L123.671,501.546Z" transform="translate(0 572.678) rotate(-90)" fill="#95dbb3"/>
+      <path id="Unión_48" data-name="Unión 48" d="M0,239.272,210.129,0l1.464,2.057L420.056,239.433,329.744,366.28,210.4,230.388,90.712,366.681Z" transform="translate(402.202 496.312) rotate(-90)" fill="#95dbb3"/>
+      <path id="Unión_49" data-name="Unión 49" d="M0,181.878,159.268,0l1.11,1.563L318.383,182l-68.452,96.42-90.453-103.3-90.722,103.6Z" transform="translate(695.001 445.475) rotate(-90)" fill="#95dbb3"/>
+    </g>
+  </g>
+</svg>

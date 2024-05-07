@@ -1,19 +1,21 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo:
+      'Componentes de los alimentos y alimentación saludable',
+    descripcionCurso:
+      'El presente componente formativo aborda los compuestos en alimentos y su rol en el desarrollo humano. Se explora la clasificación de alimentos por nutrientes, los principios de una dieta saludable, la pirámide alimenticia, y se detalla el valor energético de los nutrientes y el gasto energético en reposo.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
-    imagenesDecorativasBanner: [
-      {
-        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
-      },
-      {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
-      },
-    ],
+    //imagenesDecorativasBanner: [
+    //  {
+    //    clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+    //    imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+    //  },
+    //  {
+    //    clases: ['banner-principal-decorativo-2'],
+    //    imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+    //  },
+    //],
   },
   menuPrincipal: {
     menu: [
@@ -31,27 +33,71 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Alimentación, nutrición y clasificación de los alimentos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
 
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Composición de los alimentos',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Carbohidratos',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Las proteínas',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Las grasas o lípidos',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Las vitaminas',
+            hash: 't_2_4',
+          },
+          {
+            numero: '2.5',
+            titulo: 'Los minerales',
+            hash: 't_2_5',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Nutrientes presentes en los principales grupos de alimentos',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Alimentación saludable',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Dieta moderada',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'La pirámide de la alimentación',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema7',
+        numero: '7',
+        titulo: 'El valor energético de los alimentos',
         desarrolloContenidos: true,
       },
     ],
