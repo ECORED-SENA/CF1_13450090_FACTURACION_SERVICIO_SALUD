@@ -2,12 +2,12 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 2
       h1 Composición de los alimentos
     .row.justify-content-center
-      .col-lg-10.bg-c6
+      .col-lg-10.bg-c6(data-aos="fade-right")
         .p-4
           .row.align-items-center
             .col-auto.pe-0
@@ -20,10 +20,10 @@
     .titulo-segundo.color-acento-contenido
       h2 2.1 Carbohidratos
     .row.mb-5
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema2/img1.png', style="width:400px" alt='').m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p Los hidratos de carbono o carbohidratos son moléculas de carbono, hidrógeno y oxígeno, cuya fórmula es (CH2O)n. Se clasifican en azúcares simples, los cuales están conformados por una sola molécula, llamados monosacáridos, por los disacáridos o azúcares dobles, formados por dos moléculas, y por los polisacáridos, constituidos por 10 moléculas (considerados los azúcares más complejos). Estos compuestos se hallan en la mayoría de los alimentos y su función principal es dar energía a las personas.
         p Otras de las funciones más importantes de los carbohidratos son:
         ul.lista-ul
@@ -39,9 +39,9 @@
           li.d-flex
             i.fas.fa-walking(style="color:#787CF0")
             | Ayudar al organismo a construir moléculas más complejas.
-    p.mb-5 Los carbohidratos se clasifican según la complejidad de su estructura molecular, así:
+    p.mb-5(data-aos="fade-right") Los carbohidratos se clasifican según la complejidad de su estructura molecular, así:
     .row.align-items-center.mb-5
-      .col-lg-9
+      .col-lg-9(data-aos="fade-right")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Monosacáridos o azúcares simples")
             .col-12
@@ -54,10 +54,10 @@
           .row(titulo="Polisacáridos")
             .col-12
               p Constituidos por cadenas largas de monosacáridos, es el grupo más complejo entre los carbohidratos; se descomponen en moléculas más pequeñas por hidrólisis en el organismo de los seres humanos y tienen la función de mantener reservas de energía. Los más conocidos en este grupo son el almidón, el glucógeno, las dextrinas y la fibra dietaria.
-      .col-lg-3.d-none.d-lg-block
+      .col-lg-3.d-none.d-lg-block(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/img2.png', style="width:280px" alt='').m-auto
-    .row.mb-4
+    .row.mb-4(data-aos="fade-down")
       .col-auto
         .row.align-items-center
           .col-auto(style="z-index: 2")
@@ -67,13 +67,13 @@
             .px-3.py-2
               h3.text-white.mb-0 Fibra dietaria
     .row.mb-5
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema2/img3.svg', style="width:380px" alt='').m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p La fibra es de origen vegetal y se halla en las paredes celulares de los vegetales. Bajo esta denominación se pueden incluir carbohidratos como el almidón resistente, el cual no se degrada ante las enzimas digestivas; dentro de este grupo se incluye la lignina, la cual no es un hidrato de carbono.
         p.mb-0 Los componentes más conocidos de la fibra son la celulosa, la hemicelulosa, las pectinas, las gomas, el agar, los mucilagos y la lignina.
-    .row.mb-4
+    .row.mb-4(data-aos="fade-down")
       .col-auto
         .row.align-items-center
           .col-auto(style="z-index: 2")
@@ -82,9 +82,9 @@
           .col.bg-c7
             .px-3.py-2
               h3.text-white.mb-0 Fibra soluble
-    p.mb-5 En este grupo se encuentran las pectinas, las gomas y el agar. Estos productos tienen la característica de disolverse con facilidad en agua formando un gel grueso.
+    p.mb-5(data-aos="fade-right") En este grupo se encuentran las pectinas, las gomas y el agar. Estos productos tienen la característica de disolverse con facilidad en agua formando un gel grueso.
     .row.mb-5
-      .col-lg-9.order-2.order-lg-1
+      .col-lg-9.order-2.order-lg-1(data-aos="fade-right")
         TabsA.color-acento-botones
           .tarjeta.color-acento-botones.p-4(titulo="Funciones")
             .row
@@ -146,10 +146,10 @@
                   li.d-flex
                     i.fas.fa-walking(style="color:#787CF0")
                     | Arándano rojo.
-      .col-lg-3.mb-4.mb-lg-0.order-1.order-lg-2
+      .col-lg-3.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/img3.png', style="width:290px" alt='').m-auto
-    .row.mb-4
+    .row.mb-4(data-aos="fade-down")
       .col-auto
         .row.align-items-center
           .col-auto(style="z-index: 2")
@@ -158,12 +158,12 @@
           .col.bg-c7
             .px-3.py-2
               h3.text-white.mb-0 Fibra insoluble
-    p.mb-5 En esta agrupación se halla la celulosa, la hemicelulosa y la lignina; la fibra insoluble no se descompone, ni se disuelve en el intestino de los seres humanos, sino que pasa al tacto gástrico casi intacta.
+    p.mb-5(data-aos="fade-right") En esta agrupación se halla la celulosa, la hemicelulosa y la lignina; la fibra insoluble no se descompone, ni se disuelve en el intestino de los seres humanos, sino que pasa al tacto gástrico casi intacta.
     .row
-      .col-lg-3.mb-4.mb-lg-0
+      .col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema2/img4.png', style="width:290px" alt='').m-auto
-      .col-lg-9
+      .col-lg-9(data-aos="fade-left")
         TabsA.color-acento-botones
           .tarjeta.color-acento-botones.p-4(titulo="Funciones")
             .row
@@ -224,27 +224,27 @@
       .col-12
         .px-5
           .row.justify-content-center.mb-5
-            .col-md-8.col-lg-5.mb-4.mb-lg-0
+            .col-md-8.col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
               .p-4.bg-c8.h-100
                 .row.align-items-center.h-100
                   .col
                     p.mb-0 Son sustancias orgánicas que en general contienen una base de elementos químicos como carbono, hidrógeno, oxígeno y nitrógeno; también se componen por cadenas lineales de aminoácidos las cuales están encadenadas a enlaces peptídicos formados en el grupo carboxilo de un aminoácido.
-            .col-md-8.col-lg-3.mb-4.mb-lg-0
+            .col-md-8.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
               figure
                 img(src='@/assets/curso/tema2/img4.svg', style="width:270px" alt='').m-auto
-            .col-md-8.col-lg-4
+            .col-md-8.col-lg-4(data-aos="fade-left")
               figure.mb-3
                 img(src='@/assets/curso/tema2/img5.svg', style="width:70px" alt='')
               p.mb-0 Por añadidura son compuestos que desempeñan muchas funciones en los seres humanos, haciendo parte de tejidos, tendones, músculos, piel y uñas; además, realizan acciones metabólicas, reguladoras, transportan oxígeno, y grasas en la sangre, pertenecen al código genético (ADN), lo que define la identidad de cada persona.
-          p.mb-5 A continuación, se presenta un esquema con las funciones de las proteínas.
+          p.mb-5(data-aos="fade-right") A continuación, se presenta un esquema con las funciones de las proteínas.
           .row.justify-content-center
-            .col-lg-6
+            .col-lg-6(data-aos="fade-right")
               .p-4.bg-c10
                 .titulo-sexto.color-acento-contenido
                   p.text-white.mb-0 #[b Figura 1.] Funciones de las proteínas
                 figure
                   img(src='@/assets/curso/tema2/img7.svg', style="width:570px" alt='Imagen que presenta las funciones de las proteínas, la cuales son: transportadoras, reguladoras, defensivas, energéticas y plásticas o estructurales.').m-auto
-            .col-lg-3.d-none.d-lg-block
+            .col-lg-3.d-none.d-lg-block(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/tema2/img6.svg', style="width:282px" alt='').m-auto
     Separador
@@ -252,7 +252,7 @@
     .titulo-segundo.color-acento-contenido
       h2 2.3  Las grasas o lípidos
     .row.align-items-center.mb-3
-      .col-lg-9.order-2.order-lg-1
+      .col-lg-9.order-2.order-lg-1(data-aos="fade-right")
         p Son sustancias que se encuentran en las células de animales o vegetales. La función más importante para el organismo de los seres humanos es dar energía al metabolismo y trasportar vitaminas liposolubles.
         .row.justify-content-center.mb-3
           .col-9.col-md-auto.pe-md-0
@@ -263,14 +263,14 @@
               .row.align-items-center.h-100
                 p.mb-0 Se puede decir que las grasas son un conjunto de sustancias que tienen poca solubilidad en el agua, pero sin embargo se pueden solubilizar en solventes como el éter o el cloroformo; además el medio por el cual se sintetizan es a través de los hidratos de carbono.
         p.mb-0 Los lípidos están constituidos por colesterol libre, esterificado, triglicéridos, ácidos grasos libres y fosfolípidos, estos compuestos están presentes en las lipoproteínas plásticas y son los encargados de transportar los quilomicrones, las lipoproteínas de densidad baja (LDL) y las proteínas de alta densidad (HDL).
-      .col-lg-3.mb-4.mb-lg-0.order-1.order-lg-2
+      .col-lg-3.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/img6.png', style="width:260px" alt='').m-auto
     .row.align-items-center
-      .col-lg-5.d-none.d-lg-block
+      .col-lg-5.d-none.d-lg-block(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema2/img7.png', style="width:480px" alt='').m-auto
-      .col-lg-7
+      .col-lg-7(data-aos="fade-left")
         p La importancia de los lípidos en la alimentación está relacionada con:
         ul.lista-ul
           li.d-flex
@@ -290,21 +290,21 @@
       .col-12
         .px-5
           .row.justify-content-center.mb-5
-            .col-md-8.col-lg-5.mb-4.mb-lg-0
+            .col-md-8.col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
               .p-4.bg-c8.h-100
                 .row.align-items-center.h-100
                   .col
                     p.mb-0 Son sustancias orgánicas que se pueden obtener de los alimentos; igualmente son de gran importancia para el hombre porque ayudan a que el organismo se desarrolle adecuadamente. Cuando hay carencia de ellas en la dieta se pueden generar enfermedades.
-            .col-md-8.col-lg-3.mb-4.mb-lg-0
+            .col-md-8.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
               figure
                 img(src='@/assets/curso/tema2/img8.png', style="width:270px" alt='').m-auto
-            .col-md-8.col-lg-4
+            .col-md-8.col-lg-4(data-aos="fade-left")
               figure.mb-3
                 img(src='@/assets/curso/tema2/img9.svg', style="width:70px" alt='')
               p.mb-0 Las vitaminas se deben suministrar al cuerpo en pequeñas cantidades, pues el organismo no puede producirlas, a excepción de algunas.
-          p.mb-5 Las vitaminas se pueden clasificar en:
+          p.mb-5(data-aos="fade-right") Las vitaminas se pueden clasificar en:
           .row.justify-content-center.mb-5
-            .col-md-8.col-lg-3.mb-4.mb-lg-0
+            .col-md-8.col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
               .p-4.bg-c12.h-100
                 figure.mb-3
                   img(src='@/assets/curso/tema2/img10.svg', style="width:90px" alt='').m-auto
@@ -343,7 +343,7 @@
                   li.d-flex
                     i.fas.fa-walking(style="color:#787CF0")
                     | Cobalamina.
-            .col-md-8.col-lg-3.mb-4.mb-lg-0
+            .col-md-8.col-lg-3.mb-4.mb-lg-0(data-aos="fade-left")
               .p-4.bg-c12.h-100
                 figure.mb-3
                   img(src='@/assets/curso/tema2/img11.svg', style="width:90px" alt='').m-auto
@@ -373,15 +373,15 @@
                   li.d-flex
                     i.fas.fa-walking(style="color:#787CF0")
                     | Provitamina.
-            .col-md-8.col-lg-6
+            .col-md-8.col-lg-6(data-aos="fade-down")
               figure
                 img(src='@/assets/curso/tema2/img9.png', style="width:580px" alt='').m-auto
-          p.mb-5 La siguiente tabla nos presenta una comparación entre esta comparación.
+          p.mb-5(data-aos="fade-right") La siguiente tabla nos presenta una comparación entre esta comparación.
           .row.justify-content-center
-            .col-lg-10
+            .col-lg-10(data-aos="fade-right")
               .titulo-sexto.color-acento-contenido
                 p.mb-0 #[b Tabla 1.] Hidrosolubles versus liposolubles
-              .tabla-a.color-primario
+              .tabla-a.color-primario(data-aos="fade-left")
                 table
                   thead
                     tr
@@ -421,7 +421,7 @@
                       td Excreción.
                       td Se requiere en dosis frecuentes.
                       td Se requiere en dosis periódicas.
-    p.b-5 A continuación, se presentan las situaciones de riesgo de deficiencia vitamínica:
+    p.b-5(data-aos="fade-right") A continuación, se presentan las situaciones de riesgo de deficiencia vitamínica:
     .row.bg-c14
       .col-12
         .px-5
@@ -480,12 +480,12 @@
                   li.d-flex
                     i.fas.fa-walking(style="color:#787CF0")
                     | Situaciones de mala absorción.
-          p.mb-5 Existen diferentes factores que pueden neutralizar o destruir las vitaminas, entre estos:
+          p.mb-5(data-aos="fade-right") Existen diferentes factores que pueden neutralizar o destruir las vitaminas, entre estos:
           .row.align-items-center
-            .col-lg-4.mb-4.mb-lg-0
+            .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
               figure
                 img(src='@/assets/curso/tema2/img15.svg', style="width:340px" alt='').m-auto
-            .col-lg-8
+            .col-lg-8(data-aos="fade-left")
               .tarjeta.tarjeta--azul1
                 .p-5
                   SlyderA(tipo="b")
@@ -521,14 +521,14 @@
     #t_2_5
     .titulo-segundo.color-acento-contenido
       h2 2.5 Los minerales
-    p Son sustancias naturales compuestas por moléculas formadas por átomos de uno o más elementos químicos. Son muy importantes para la salud del cuerpo humano, porque aportan los nutrientes necesarios para que funcione de manera correcta.
-    p Los minerales se dividen en dos grupos:
-    p.mb-5 Los #[span.txt-c2 #[b macroelementos]], aquellos que se deben consumir en cantidades considerables:
+    p(data-aos="fade-right") Son sustancias naturales compuestas por moléculas formadas por átomos de uno o más elementos químicos. Son muy importantes para la salud del cuerpo humano, porque aportan los nutrientes necesarios para que funcione de manera correcta.
+    p(data-aos="fade-right") Los minerales se dividen en dos grupos:
+    p.mb-5(data-aos="fade-right") Los #[span.txt-c2 #[b macroelementos]], aquellos que se deben consumir en cantidades considerables:
     .row.align-items-center
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema2/img12.png', style="width:340px" alt='').m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Calcio, potasio y magnesio")
             .col-12
@@ -543,7 +543,7 @@
             .col-12
               p.mb-0 Participa en la contracción del músculo cardíaco y además actúa en la regulación del balance de agua en el organismo.
     .row.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8(data-aos="fade-right")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Magnesio")
             .col-12
@@ -554,15 +554,15 @@
           .row(titulo="Azufre")
             .col-12
               p.mb-0 Está presente en la composición de hormonas y vitaminas, además hace parte del cabello, de las uñas, y de la piel.
-      .col-lg-4.d-none.d-lg-block
+      .col-lg-4.d-none.d-lg-block(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/img13.png', style="width:340px" alt='').m-auto
-    p.mb-5 Los #[span.txt-c2 #[b microelementos]], aquellos que se deben consumir en cantidades mínimas:
+    p.mb-5(data-aos="fade-right") Los #[span.txt-c2 #[b microelementos]], aquellos que se deben consumir en cantidades mínimas:
     .row.align-items-center
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema2/img14.png', style="width:380px" alt='').m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Hierro")
             .col-12

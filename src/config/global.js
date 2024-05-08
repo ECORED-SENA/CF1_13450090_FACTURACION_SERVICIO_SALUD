@@ -148,31 +148,70 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
-    },
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Alimentación saludable',
+      referencia:
+        'INCMNSZ Educación para la Salud. (2021). <i>Alimentación sana - cerebro sano - INCMNSZ - Educación para la Salud</i> (video). YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=vs2U6BvZ4U4',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Carbohidratos',
+      significado:
+        'son macronutrientes que proporcionan energía al cuerpo, especialmente al cerebro y al sistema nervioso. Están compuestos principalmente de carbono, hidrógeno y oxígeno.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Proteínas',
+      significado:
+        'macronutrientes esenciales compuestos de aminoácidos que el cuerpo utiliza para construir y reparar tejidos, producir enzimas y hormonas, y apoyar el sistema inmunológico.',
+    },
+    {
+      termino: 'Grasas o lípidos',
+      significado:
+        'son un tipo de lípido y son macronutrientes importantes que el cuerpo utiliza para energía, aislamiento y protección de órganos vitales. Las grasas también facilitan la absorción de vitaminas solubles en grasa (A, D, E, K).',
+    },
+    {
+      termino: 'Vitaminas',
+      significado:
+        'son micronutrientes que el cuerpo necesita en pequeñas cantidades para funcionar adecuadamente y mantener la salud. Son esenciales para procesos como la producción de energía, la función inmune, la coagulación de la sangre y funciones celulares.',
+    },
+    {
+      termino: 'Minerales',
+      significado:
+        'son elementos inorgánicos que el cuerpo utiliza para numerosas funciones biológicas, como la construcción de huesos, la regulación del metabolismo y la garantización del funcionamiento adecuado de los nervios y músculos.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Hernández, M. y Sastre, A. (1999). Tratado de nutrición. Madrid, España: Díaz de Santos.',
+      link: '',
+    },
+    {
+      referencia: 'Iñarritu, M. (s.f.). Elaboración de una dieta. ',
+      link:
+        'http://www.edu.xunta.es/centros/ieschapela/system/files/ELABORACI%C3%93N%20DIETAS_1.pdf',
+    },
+    {
+      referencia:
+        'Mataix, J. (2002). Nutrición y alimentación humana: Nutrientes y alimentos. Madrid, España: Ergon.',
+      link: '',
+    },
+    {
+      referencia:
+        'Sección de programas de salud de la concejalía de sanidad del ayuntamiento de Valencia. (2009). 2 Guía de nutrición y alimentación saludable: la pirámide de la alimentación. ',
+      link:
+        'http://www.valencia.es/ayuntamiento/Sanidad.nsf/0/004DD7F111F0F31DC12575E6003BF9B2/$FILE/piramide_IMPR_reduc.pdf?OpenElement&lang=1',
+    },
+    {
+      referencia:
+        'Valero, T., Del Pozo, S., Ruiz, E., Ávila, J. y Varela, G. (s.f.). Guía nutricional de la carne. ',
+      link: 'http://www.fedecarne.es/ficheros/swf/pdf/guiaNutricion.pdf',
+    },
+    {
+      referencia:
+        'Vázquez, C., De Cos, A. y López, C. (2005). Alimentación y nutrición: Manual teórico-práctico. Madrid, España: Díaz de Santos.',
       link: '',
     },
   ],
@@ -196,8 +235,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Ángela Viviana Páez Perilla',
+          cargo: 'Experta Temática',
+          centro: 'Centro Agroindustrial - Regional Quindío',
+        },
+        {
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Evaluadora Instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -206,35 +250,35 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Blanca Flor Tinoco Torres',
           cargo: 'Diseñador de Contenidos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Jhon Jairo Urueta Alvarez',
           cargo: 'Desarrollador Fullstack',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
+          nombre: 'Edgar Mauricio Cortés García',
           cargo: 'Actividad Didáctica',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
+        //{
+        //  nombre: 'Nombre',
+        //  cargo: 'Animador y Producción audiovisual',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
       ],
     },
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
-        {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
+        //{
+        //  nombre: 'Luis Gabriel Urueta Alvarez',
+        //  cargo: 'Validador de Recursos Educativos Digitales',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
         {
           nombre: 'Jaime Hernán Tejada Llano',
           cargo: 'Validador de Recursos Educativos Digitales',
@@ -245,11 +289,11 @@ export default {
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
-        {
-          nombre: 'Margarita Marcela Medrano Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
+        //{
+        //  nombre: 'Margarita Marcela Medrano Gómez',
+        //  cargo: 'Evaluador para contenidos inclusivos y accesibles',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
       ],
     },
   ],
