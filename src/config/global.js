@@ -1,21 +1,25 @@
 export default {
   global: {
     componenteFormativo:
-      'Componentes de los alimentos y alimentación saludable',
+      'Normativa y procedimientos para la facturación en el sistema de salud colombiano',
     descripcionCurso:
-      'El presente componente formativo aborda los compuestos en alimentos y su rol en el desarrollo humano. Se explora la clasificación de alimentos por nutrientes, los principios de una dieta saludable, la pirámide alimenticia, y se detalla el valor energético de los nutrientes y el gasto energético en reposo.',
+      'La normativa colombiana desde 1993, con la Ley 100, regula la facturación de servicios de salud, optimizando el flujo de caja de las Instituciones Prestadoras de Servicios de Salud (IPS). Esto incluye detallados procedimientos y términos para la recuperación equitativa de costos y la humanización del servicio. Destacan resoluciones como la 3047 de 2008 y el Decreto 4747 de 2007, que especifican formatos, términos y procedimientos para el efectivo cobro y pago de los servicios de salud.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
-    //imagenesDecorativasBanner: [
-    //  {
-    //    clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-    //    imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
-    //  },
-    //  {
-    //    clases: ['banner-principal-decorativo-2'],
-    //    imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
-    //  },
-    //],
+    imagenesDecorativasBanner: [
+      {
+        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
+      },
+    ],
   },
   menuPrincipal: {
     menu: [
@@ -33,71 +37,45 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Alimentación, nutrición y clasificación de los alimentos',
+        titulo: 'Normatividad',
         desarrolloContenidos: true,
       },
 
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Composición de los alimentos',
+        titulo: 'La factura',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '2.1',
-            titulo: 'Carbohidratos',
-            hash: 't_2_1',
-          },
-          {
-            numero: '2.2',
-            titulo: 'Las proteínas',
-            hash: 't_2_2',
-          },
-          {
-            numero: '2.3',
-            titulo: 'Las grasas o lípidos',
-            hash: 't_2_3',
-          },
-          {
-            numero: '2.4',
-            titulo: 'Las vitaminas',
-            hash: 't_2_4',
-          },
-          {
-            numero: '2.5',
-            titulo: 'Los minerales',
-            hash: 't_2_5',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Nutrientes presentes en los principales grupos de alimentos',
+        titulo: 'Tipos de usuarios y planes de beneficios',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Alimentación saludable',
+        titulo: 'Acuerdo de voluntades y normatividad',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Dieta moderada',
+        titulo:
+          'Sistema de selección y clasificación de pacientes en urgencias “Triage”',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'La pirámide de la alimentación',
+        titulo: 'Registro Individual de Prestación de Servicio de Salud (RIPS)',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema7',
         numero: '7',
-        titulo: 'El valor energético de los alimentos',
+        titulo: 'Historias clínicas y custodia de la información',
         desarrolloContenidos: true,
       },
     ],

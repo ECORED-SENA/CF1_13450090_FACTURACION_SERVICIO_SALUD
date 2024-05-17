@@ -1,1 +1,2 @@
-module.exports = 'Componentes de los alimentos y alimentación saludable'
+module.exports =
+  'Normativa y procedimientos para la facturación en el sistema de salud colombiano'
