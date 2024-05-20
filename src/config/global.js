@@ -126,70 +126,121 @@ export default {
   },
   complementario: [
     {
-      tema: 'Alimentación saludable',
-      referencia:
-        'INCMNSZ Educación para la Salud. (2021). <i>Alimentación sana - cerebro sano - INCMNSZ - Educación para la Salud</i> (video). YouTube.',
+      tema:
+        'Sistema de selección y clasificación de pacientes en urgencias “Triage”',
+      referencia: 'Emermédica Oficial (2022). Qué es el triage. YouTube.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=vs2U6BvZ4U4',
+      link:
+        'https://www.youtube.com/watch?v=93U719WgxyM&ab_channel=Emerm%C3%A9dicaOficial',
+    },
+    {
+      tema: 'Registro Individual de Prestación de Servicio de Salud (RIPS)',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (2023). Redes integrales de prestadores de servicios de salud. YouTube.',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=ceMzqmSXdOU&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
+    },
+    {
+      tema: 'Historias clínicas y custodia de la información',
+      referencia:
+        'Noticias Caracol (2018). ¡Es un documento privado! Solo en estos casos puede pedir copia de su historia clínica. YouTube.',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=uYCnttSp9Ew&ab_channel=NoticiasCaracol',
     },
   ],
   glosario: [
     {
-      termino: 'Carbohidratos',
+      termino: 'Ley 100 de 1993',
       significado:
-        'son macronutrientes que proporcionan energía al cuerpo, especialmente al cerebro y al sistema nervioso. Están compuestos principalmente de carbono, hidrógeno y oxígeno.',
+        'ley que establece el Sistema General de Seguridad Social en Salud en Colombia, entre otros sistemas complementarios.',
     },
     {
-      termino: 'Proteínas',
+      termino: 'IPS (Instituciones Prestadoras de Servicios de Salud)',
       significado:
-        'macronutrientes esenciales compuestos de aminoácidos que el cuerpo utiliza para construir y reparar tejidos, producir enzimas y hormonas, y apoyar el sistema inmunológico.',
+        'organizaciones encargadas de prestar servicios médicos y de salud a los afiliados del sistema de salud.',
     },
     {
-      termino: 'Grasas o lípidos',
+      termino: 'EPS (Entidades Promotoras de Salud)',
       significado:
-        'son un tipo de lípido y son macronutrientes importantes que el cuerpo utiliza para energía, aislamiento y protección de órganos vitales. Las grasas también facilitan la absorción de vitaminas solubles en grasa (A, D, E, K).',
+        'entidades encargadas de administrar los planes de salud y asegurar la prestación de los servicios médicos a sus afiliados bajo el sistema de salud colombiano.',
     },
     {
-      termino: 'Vitaminas',
+      termino: 'Resolución 3047 de 2008',
       significado:
-        'son micronutrientes que el cuerpo necesita en pequeñas cantidades para funcionar adecuadamente y mantener la salud. Son esenciales para procesos como la producción de energía, la función inmune, la coagulación de la sangre y funciones celulares.',
+        'establece formatos, mecanismos de envío, procedimientos y términos en las relaciones entre prestadores de servicios de salud y entidades responsables del pago.',
     },
     {
-      termino: 'Minerales',
+      termino: 'Decreto 4747 de 2007',
       significado:
-        'son elementos inorgánicos que el cuerpo utiliza para numerosas funciones biológicas, como la construcción de huesos, la regulación del metabolismo y la garantización del funcionamiento adecuado de los nervios y músculos.',
+        'regula aspectos de las relaciones entre prestadores de servicios de salud y entidades responsables del pago de los servicios de salud.',
+    },
+    {
+      termino: 'Flujo de caja',
+      significado:
+        'gestión del efectivo que entra y sale en una entidad, en este contexto, relacionado con el pago y cobro por servicios de salud.',
+    },
+    {
+      termino: 'Humanización del servicio',
+      significado:
+        'enfoque en la prestación de servicios de salud que prioriza el cuidado, la ética y la calidad en el trato a los pacientes, asegurando un servicio digno y respetuoso.',
     },
   ],
   referencias: [
     {
       referencia:
-        'Hernández, M. y Sastre, A. (1999). Tratado de nutrición. Madrid, España: Díaz de Santos.',
-      link: '',
-    },
-    {
-      referencia: 'Iñarritu, M. (s.f.). Elaboración de una dieta. ',
-      link:
-        'http://www.edu.xunta.es/centros/ieschapela/system/files/ELABORACI%C3%93N%20DIETAS_1.pdf',
-    },
-    {
-      referencia:
-        'Mataix, J. (2002). Nutrición y alimentación humana: Nutrientes y alimentos. Madrid, España: Ergon.',
+        'Colombia. (1993). Ley 100 de 23 de diciembre de 1993 por la cual se crea el sistema de seguridad social integral y se dictan otras disposiciones. Diario Oficial No. 41.148.',
       link: '',
     },
     {
       referencia:
-        'Sección de programas de salud de la concejalía de sanidad del ayuntamiento de Valencia. (2009). 2 Guía de nutrición y alimentación saludable: la pirámide de la alimentación. ',
-      link:
-        'http://www.valencia.es/ayuntamiento/Sanidad.nsf/0/004DD7F111F0F31DC12575E6003BF9B2/$FILE/piramide_IMPR_reduc.pdf?OpenElement&lang=1',
+        'Ministerio de la Protección Social. (2007). Decreto 4747 de 7 de diciembre de 2007 Por medio del cual se regulan algunos aspectos de las relaciones entre los prestadores de servicios de salud y las entidades responsables del pago de los servicios de salud de la población a su cargo, y se dictan otras disposiciones Diario Oficial No. 46.827.',
+      link: '',
     },
     {
       referencia:
-        'Valero, T., Del Pozo, S., Ruiz, E., Ávila, J. y Varela, G. (s.f.). Guía nutricional de la carne. ',
-      link: 'http://www.fedecarne.es/ficheros/swf/pdf/guiaNutricion.pdf',
+        'Ministerio de la Protección Social. (2008). Resolución 3047 de 29 de agosto de 2008 por la cual se definen, para todos los actores del Sistema General de Seguridad Social en Salud, los procedimientos y condiciones que deben cumplir los Prestadores de Servicios de Salud y las Entidades Promotoras de Salud para la solicitud, autorización, realización y cobro de los servicios de salud. Diario Oficial No. 47.091.',
+      link: '',
     },
     {
       referencia:
-        'Vázquez, C., De Cos, A. y López, C. (2005). Alimentación y nutrición: Manual teórico-práctico. Madrid, España: Díaz de Santos.',
+        'Ministerio de la Protección Social. (2012). Resolución 4331 de 2012 por la cual se adicionan y modifican parcialmente la Resolución 3047 de 2008.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de la Protección Social. (2015). Resolución 1479 de 2015 por la cual se señala el procedimiento para el cobro y pago de servicios y tecnologías sin cobertura en el POS, para afiliados al Régimen Subsidiado.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de la Protección Social. (2016). Resolución 6408 de 2016 por la cual se modifica el Plan de Beneficios en Salud con cargo a la UPC e incluye anexos técnicos.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de la Protección Social. (2017). Resolución 1132 de 2017 por la cual se modifica la Resolución 4678 de 2015, adopta la CUPS y dicta otras disposiciones relacionadas con la Resolución 6408 de 2016.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de la Protección Social. (2015). Resolución 5592 de 2015 que actualiza integralmente el Plan de Beneficios en Salud con cargo a la Unidad de Pago por Capitación.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de la Protección Social. (2000). Resolución 3374 de 2000 que reglamenta los datos básicos que deben reportar los prestadores de servicios de salud y las entidades administradoras de planes de beneficios sobre los servicios de salud prestados.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de la Protección Social. (2016). Resolución 6411 de 2016 que fija el valor de la UPC para la cobertura del plan de beneficios en salud de los regímenes contributivo y subsidiado en la vigencia 2017.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de la Protección Social. (2017). Resolución 1687 de 2017 que sustituye el Anexo 2 "Listado de Procedimientos en Salud del Plan de Beneficios en Salud con cargo a la UPC" de la Resolución 6408 de 2016 y dicta otras disposiciones.',
       link: '',
     },
   ],
@@ -213,12 +264,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Ángela Viviana Páez Perilla',
+          nombre: 'Claudia Patricia Velásquez Orozco',
           cargo: 'Experta Temática',
-          centro: 'Centro Agroindustrial - Regional Quindío',
+          centro:
+            'Centro de Formación en Talento Humano en Salud - Regional Distrito Capital',
         },
         {
-          nombre: 'Ana Catalina Córdoba Sus',
+          nombre: 'Paola Alexandra Moya Peralta',
           cargo: 'Evaluadora Instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
@@ -228,7 +280,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Blanca Flor Tinoco Torres',
+          nombre: 'Juan Daniel Polanco Muñoz',
           cargo: 'Diseñador de Contenidos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
@@ -257,11 +309,11 @@ export default {
         //  cargo: 'Validador de Recursos Educativos Digitales',
         //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
         //},
-        {
-          nombre: 'Jaime Hernán Tejada Llano',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
+        //{
+        //  nombre: 'Jaime Hernán Tejada Llano',
+        //  cargo: 'Validador de Recursos Educativos Digitales',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',

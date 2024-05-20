@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="85" height="77.357" viewBox="0 0 85 77.357">
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="41.375" viewBox="0 0 85 41.375">
   <g id="Grupo_1098953" data-name="Grupo 1098953" transform="translate(-704 -6538)">
     <path id="Trazado_872910" data-name="Trazado 872910" d="M3.394,1.7A1.7,1.7,0,1,1,1.7,0a1.7,1.7,0,0,1,1.7,1.7" transform="translate(705 6539)" fill="#f1c12c"/>
     <path id="Trazado_872910_-_Contorno" data-name="Trazado 872910 - Contorno" d="M1.7,4.394a2.7,2.7,0,1,1,2.7-2.7A2.7,2.7,0,0,1,1.7,4.394ZM1.7,1a.7.7,0,1,0,.7.7A.7.7,0,0,0,1.7,1Z" transform="translate(705 6539)" fill="#f1c12c"/>
@@ -36,29 +36,5 @@
     <path id="Trazado_872926_-_Contorno" data-name="Trazado 872926 - Contorno" d="M117.51,68.224a2.7,2.7,0,1,1,2.7-2.7A2.7,2.7,0,0,1,117.51,68.224Zm0-3.394a.7.7,0,1,0,.7.7A.7.7,0,0,0,117.51,64.83Z" transform="translate(652.872 6511.151)" fill="#f1c12c"/>
     <path id="Trazado_872927" data-name="Trazado 872927" d="M148.161,65.527a1.7,1.7,0,1,1-1.7-1.7,1.7,1.7,0,0,1,1.7,1.7" transform="translate(639.839 6511.151)" fill="#f1c12c"/>
     <path id="Trazado_872927_-_Contorno" data-name="Trazado 872927 - Contorno" d="M146.464,68.224a2.7,2.7,0,1,1,2.7-2.7A2.7,2.7,0,0,1,146.464,68.224Zm0-3.394a.7.7,0,1,0,.7.7A.7.7,0,0,0,146.464,64.83Z" transform="translate(639.839 6511.151)" fill="#f1c12c"/>
-    <path id="Trazado_872928" data-name="Trazado 872928" d="M3.394,97.442a1.7,1.7,0,1,1-1.7-1.7,1.7,1.7,0,0,1,1.7,1.7" transform="translate(705 6497.227)" fill="#f1c12c"/>
-    <path id="Trazado_872928_-_Contorno" data-name="Trazado 872928 - Contorno" d="M1.7,100.139a2.7,2.7,0,1,1,2.7-2.7A2.7,2.7,0,0,1,1.7,100.139Zm0-3.394a.7.7,0,1,0,.7.7A.7.7,0,0,0,1.7,96.745Z" transform="translate(705 6497.227)" fill="#f1c12c"/>
-    <path id="Trazado_872929" data-name="Trazado 872929" d="M32.348,97.442a1.7,1.7,0,1,1-1.7-1.7,1.7,1.7,0,0,1,1.7,1.7" transform="translate(691.953 6497.227)" fill="#f1c12c"/>
-    <path id="Trazado_872929_-_Contorno" data-name="Trazado 872929 - Contorno" d="M30.651,100.139a2.7,2.7,0,1,1,2.7-2.7A2.7,2.7,0,0,1,30.651,100.139Zm0-3.394a.7.7,0,1,0,.7.7A.7.7,0,0,0,30.651,96.745Z" transform="translate(691.968 6497.227)" fill="#f1c12c"/>
-    <path id="Trazado_872930" data-name="Trazado 872930" d="M61.3,97.442a1.7,1.7,0,1,1-1.7-1.7,1.7,1.7,0,0,1,1.7,1.7" transform="translate(678.931 6497.227)" fill="#f1c12c"/>
-    <path id="Trazado_872930_-_Contorno" data-name="Trazado 872930 - Contorno" d="M59.6,100.139a2.7,2.7,0,1,1,2.7-2.7A2.7,2.7,0,0,1,59.6,100.139Zm0-3.394a.7.7,0,1,0,.7.7A.7.7,0,0,0,59.6,96.745Z" transform="translate(678.936 6497.227)" fill="#f1c12c"/>
-    <path id="Trazado_872931" data-name="Trazado 872931" d="M90.254,97.442a1.7,1.7,0,1,1-1.7-1.7,1.7,1.7,0,0,1,1.7,1.7" transform="translate(665.908 6497.227)" fill="#f1c12c"/>
-    <path id="Trazado_872931_-_Contorno" data-name="Trazado 872931 - Contorno" d="M88.557,100.139a2.7,2.7,0,1,1,2.7-2.7A2.7,2.7,0,0,1,88.557,100.139Zm0-3.394a.7.7,0,1,0,.7.7A.7.7,0,0,0,88.557,96.745Z" transform="translate(665.904 6497.227)" fill="#f1c12c"/>
-    <path id="Trazado_872932" data-name="Trazado 872932" d="M119.207,97.442a1.7,1.7,0,1,1-1.7-1.7,1.7,1.7,0,0,1,1.7,1.7" transform="translate(652.886 6497.227)" fill="#f1c12c"/>
-    <path id="Trazado_872932_-_Contorno" data-name="Trazado 872932 - Contorno" d="M117.51,100.139a2.7,2.7,0,1,1,2.7-2.7A2.7,2.7,0,0,1,117.51,100.139Zm0-3.394a.7.7,0,1,0,.7.7A.7.7,0,0,0,117.51,96.745Z" transform="translate(652.872 6497.227)" fill="#f1c12c"/>
-    <path id="Trazado_872933" data-name="Trazado 872933" d="M148.161,97.442a1.7,1.7,0,1,1-1.7-1.7,1.7,1.7,0,0,1,1.7,1.7" transform="translate(639.839 6497.227)" fill="#f1c12c"/>
-    <path id="Trazado_872933_-_Contorno" data-name="Trazado 872933 - Contorno" d="M146.464,100.139a2.7,2.7,0,1,1,2.7-2.7A2.7,2.7,0,0,1,146.464,100.139Zm0-3.394a.7.7,0,1,0,.7.7A.7.7,0,0,0,146.464,96.745Z" transform="translate(639.839 6497.227)" fill="#f1c12c"/>
-    <path id="Trazado_872934" data-name="Trazado 872934" d="M3.394,129.357a1.7,1.7,0,1,1-1.7-1.7,1.7,1.7,0,0,1,1.7,1.7" transform="translate(705 6483.303)" fill="#f1c12c"/>
-    <path id="Trazado_872934_-_Contorno" data-name="Trazado 872934 - Contorno" d="M1.7,132.054a2.7,2.7,0,1,1,2.7-2.7A2.7,2.7,0,0,1,1.7,132.054Zm0-3.394a.7.7,0,1,0,.7.7A.7.7,0,0,0,1.7,128.66Z" transform="translate(705 6483.303)" fill="#f1c12c"/>
-    <path id="Trazado_872935" data-name="Trazado 872935" d="M32.348,129.357a1.7,1.7,0,1,1-1.7-1.7,1.7,1.7,0,0,1,1.7,1.7" transform="translate(691.953 6483.303)" fill="#f1c12c"/>
-    <path id="Trazado_872935_-_Contorno" data-name="Trazado 872935 - Contorno" d="M30.651,132.054a2.7,2.7,0,1,1,2.7-2.7A2.7,2.7,0,0,1,30.651,132.054Zm0-3.394a.7.7,0,1,0,.7.7A.7.7,0,0,0,30.651,128.66Z" transform="translate(691.968 6483.303)" fill="#f1c12c"/>
-    <path id="Trazado_872936" data-name="Trazado 872936" d="M61.3,129.357a1.7,1.7,0,1,1-1.7-1.7,1.7,1.7,0,0,1,1.7,1.7" transform="translate(678.931 6483.303)" fill="#f1c12c"/>
-    <path id="Trazado_872936_-_Contorno" data-name="Trazado 872936 - Contorno" d="M59.6,132.054a2.7,2.7,0,1,1,2.7-2.7A2.7,2.7,0,0,1,59.6,132.054Zm0-3.394a.7.7,0,1,0,.7.7A.7.7,0,0,0,59.6,128.66Z" transform="translate(678.936 6483.303)" fill="#f1c12c"/>
-    <path id="Trazado_872937" data-name="Trazado 872937" d="M90.254,129.357a1.7,1.7,0,1,1-1.7-1.7,1.7,1.7,0,0,1,1.7,1.7" transform="translate(665.908 6483.303)" fill="#f1c12c"/>
-    <path id="Trazado_872937_-_Contorno" data-name="Trazado 872937 - Contorno" d="M88.557,132.054a2.7,2.7,0,1,1,2.7-2.7A2.7,2.7,0,0,1,88.557,132.054Zm0-3.394a.7.7,0,1,0,.7.7A.7.7,0,0,0,88.557,128.66Z" transform="translate(665.904 6483.303)" fill="#f1c12c"/>
-    <path id="Trazado_872938" data-name="Trazado 872938" d="M119.207,129.357a1.7,1.7,0,1,1-1.7-1.7,1.7,1.7,0,0,1,1.7,1.7" transform="translate(652.886 6483.303)" fill="#f1c12c"/>
-    <path id="Trazado_872938_-_Contorno" data-name="Trazado 872938 - Contorno" d="M117.51,132.054a2.7,2.7,0,1,1,2.7-2.7A2.7,2.7,0,0,1,117.51,132.054Zm0-3.394a.7.7,0,1,0,.7.7A.7.7,0,0,0,117.51,128.66Z" transform="translate(652.872 6483.303)" fill="#f1c12c"/>
-    <path id="Trazado_872939" data-name="Trazado 872939" d="M148.161,129.357a1.7,1.7,0,1,1-1.7-1.7,1.7,1.7,0,0,1,1.7,1.7" transform="translate(639.839 6483.303)" fill="#f1c12c"/>
-    <path id="Trazado_872939_-_Contorno" data-name="Trazado 872939 - Contorno" d="M146.464,132.054a2.7,2.7,0,1,1,2.7-2.7A2.7,2.7,0,0,1,146.464,132.054Zm0-3.394a.7.7,0,1,0,.7.7A.7.7,0,0,0,146.464,128.66Z" transform="translate(639.839 6483.303)" fill="#f1c12c"/>
   </g>
 </svg>
