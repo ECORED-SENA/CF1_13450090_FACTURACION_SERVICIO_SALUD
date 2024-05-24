@@ -84,7 +84,7 @@
               ul.lista-ul 
                 li.d-flex
                   i.fas.fa-check-circle(style="color:#F1C12C")
-                  | Los datos correspondientes a la prestación individual de servicios de salud de urgencia, incluye las consultas, procedimientos y estancia en observación. La transferencia de dichos datos se hará en archivos separados.
+                  | Los datos correspondientes a la prestación individual de servicios de salud de urgencia, incluyen las consultas, procedimientos y estancia en observación. La transferencia de dichos datos se hará en archivos separados.
                 li.d-flex
                   i.fas.fa-check-circle(style="color:#F1C12C")
                   | Los datos de recién nacidos corresponden individualmente a los de las condiciones y características al nacer de uno o más niños o niñas.

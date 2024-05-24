@@ -58,7 +58,7 @@
                   .row.justify-content-center.mb-3
                     .col-auto
                       p.txt-c1.mb-0 #[b Resolución 4331 de 2012]
-                  p.mb-0 Adiciona y modifica parcialmente la Resolución 3047 de 2008, modificada anteriormente por la resolución 416 de 2009.
+                  p.mb-0 Adiciona y modifica parcialmente la Resolución 3047 de 2008, modificada anteriormente por la Resolución 416 de 2009.
                 .tarjeta.color-acento-contenido.p-4
                   .row.justify-content-center.mb-3
                     .col-3
@@ -84,7 +84,7 @@
               img(src='@/assets/curso/tema1/img4.svg', style="width:270px" alt='').m-auto
           .col-md-8.col-lg.ps-0
             .p-4.bg-c5
-              p.mb-0 #[b En su totalidad, tanto las IPS como las EPS cuentan con sistemas operativos de confianza adpatados a las necedidades de cada uno.]
+              p.mb-0 #[b En su totalidad, tanto las IPS como las EPS cuentan con sistemas operativos de confianza adaptados a las necedidades de cada uno.]
         .row
           .col-md-auto.d-none.d-md-block
             figure
@@ -94,7 +94,7 @@
       .col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2.d-none.d-lg-block(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema1/img2.png', style="width:370px" alt='').m-auto
-    p.mb-5(data-aos="fade-down") Se hace especial énfasis en la resolución 3047 de 2008 del Ministerio de Salud y Protección Social y sus modificaciones. Establece la forma en que en el transcurso del modelo se desarrolla la norma desde casos prácticos.
+    p.mb-5(data-aos="fade-down") Se hace especial énfasis en la Resolución 3047 de 2008 del Ministerio de Salud y Protección Social y sus modificaciones. Establece la forma en que en el transcurso del modelo se desarrolla la norma desde casos prácticos.
     .row.justify-content-center
       .col-lg-10
         .p-4.bg-c6(data-aos="fade-right")
@@ -103,7 +103,7 @@
               figure
                 img(src='@/assets/curso/tema1/img3.png', style="width:270px" alt='').m-auto
             .col
-              p.mb-0 El #[b FOSYGA] (Fondo de Solidaridad y Garantía), es claramente el medio por el cual los aportes económicos de todos los colombianos al Sistema de Seguridad Social en Salud se canalizan. Estos aportes se reciben a través de cualquier entidad bancaria y se dirigen a este fondo, el cual está dividido en subcuentas y administra todos los recursos financieros. Por otro lado, las Entidades Promotoras de Salud (EPS) reportan los usuarios, discriminados por edad, sexo y lugar de residencia, mediante un mecanismo llamado compensación. A su vez, el fondo distribuye recursos según la Unidad de Pago por Capitación (UPC).
+              p.mb-0 El #[b FOSYGA] (Fondo de Solidaridad y Garantía), es claramente el medio por el cual los aportes económicos de todos los colombianos al Sistema de Seguridad Social en Salud se canalizan. Estos aportes se reciben a través de cualquier entidad bancaria y se dirigen a este fondo, el cual está dividido en subcuentas y administra todos los recursos financieros. Por otro lado, las Entidades Promotoras de Salud (EPS) reportan a los usuarios discriminados por edad, sexo y lugar de residencia, mediante un mecanismo llamado compensación. A su vez, el fondo distribuye recursos según la Unidad de Pago por Capitación (UPC).
       
 </template>
 

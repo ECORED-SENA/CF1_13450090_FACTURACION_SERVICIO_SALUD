@@ -36,7 +36,7 @@
                 .row.justify-content-center
                   .col-lg-7.mb-4.mb-lg-0
                     p #[b Congreso de Colombia, 9 de enero de 2007]
-                    p.mb-0 Regula la relación entre responsables del pago y prestadores de servicios de salud, especialmente en lo relacionado con las EPS en regímenes Contributivo y Subsidiado.
+                    p.mb-0 Regula la relación entre responsables del pago y prestadores de servicios de salud, especialmente en lo relacionado con las EPS en regímenes contributivo y subsidiado.
                   .col-lg-4
                     figure
                       img(src='@/assets/curso/tema4/img3.png', style='width:280px' alt="").m-auto
@@ -86,7 +86,7 @@
               .row
                 .col-12
                   .p-4.bg-c8
-                    p.mb-0 EI facturador desarrolla las competencias para identificar los tipos de acuerdos, para así cobrar los servicios prestados ante las Entidades responsables, según el decreto 4747 de 2007, que tiene en cuenta diferentes tipos de acuerdos de voluntades.
+                    p.mb-0 EI facturador desarrolla las competencias para identificar los tipos de acuerdos, para así cobrar los servicios prestados ante las Entidades responsables, según el Decreto 4747 de 2007, que tiene en cuenta diferentes tipos de acuerdos de voluntades.
     .row.mb-5
       .col-lg-8(data-aos="fade-right")
         p La relación contractual entre los prestadores y aseguradores se modifica automáticamente, de acuerdo con la dinámica de la actividad regulatoria. Los acuerdos de voluntades se realizan entre los representantes legales de las IPS y las EPS, y tienen que ver con la contratación de los servicios en salud. Para este caso, se contemplan varios aspectos, como pueden ser:

@@ -17,7 +17,7 @@
                   figure
                     img(src='@/assets/curso/tema3/img1.svg', style="width:70px" alt='').m-auto
                 .col
-                  p.mb-0 #[b La resolución 5592 de 2015], emitida por el Ministerio de la Protección Social, actualizó integralmente el Plan de Beneficios en Salud con cargo a la Unidad de Pago por Capitación. Esto significa que el Estado colombiano asigna a las Entidades Promotoras de Salud un valor económico por cada persona afiliada, determinado según su ubicación geográfica, edad y sexo, para su administración. Además, los servicios que prestan las IPS deben regirse por los servicios autorizados en el Plan de beneficios para su cobro a las administradoras.
+                  p.mb-0 #[b La Resolución 5592 de 2015], emitida por el Ministerio de la Protección Social, actualizó integralmente el Plan de Beneficios en Salud con cargo a la Unidad de Pago por Capitación. Esto significa que el Estado colombiano asigna a las Entidades Promotoras de Salud un valor económico por cada persona afiliada, determinado según su ubicación geográfica, edad y sexo, para su administración. Además, los servicios que prestan las IPS deben regirse por los servicios autorizados en el Plan de beneficios para su cobro a las administradoras.
       .col-lg-3.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/img1.png', style="width:290px" alt='').m-auto
@@ -30,7 +30,6 @@
                 p.mb-0 #[b Tabla 1.] Tipos de usuarios del Sistema General de Seguridad Social en Salud
               .tabla-a.color-secundario.mb-4
                 table
-                  caption Referencia Tabla - Norma APA
                   thead
                     tr
                       th Condiciones de la normatividad vigente
@@ -56,7 +55,7 @@
                     tr(style="background-color:#FFFFFF !important")
                       td Si existen (Los míos, los tuyos y los nuestros) incluye adoptivos con documento legal.
                       td Hijos entre 0 y 6 años y 364 días.
-                      td Fotocopia del documento de Identidad (Registro civil).
+                      td Fotocopia del documento de Identidad (registro civil).
                     tr(style="background-color:#F6F6F6 !important")
                       td En el caso de ser el afiliado soltero o de hacer pago adicional de UPC.
                       td Padres.
@@ -67,12 +66,12 @@
                       td Caso de cobertura especial - Consultar condiciones.
                       td Otros hasta tercer grado de consanguinidad. (Abuelos, bisabuelos, tíos, hermanos, sobrinos, nietos, bisnietos).
                       td
-                        p.mb-0 Fotocopia del documento de Identidad.
+                        p.mb-0 Fotocopia del documento de identidad.
                         p.mb-0 Registros civiles que se requieran para demostrar parentesco.
                         p.mb-0 Recibo de pago de UPC (planilla de autoliquidación).
                     tr(style="background-color:#F6F6F6 !important")
                       td Caso de cobertura especial - Consultar condiciones.
-                      td Nietos que dependan económicamente del abuelo.
+                      td Nietos que dependen económicamente del abuelo.
                       td Registro civil para demostrar parentesco.
     .row.mb-4(data-aos="fade-down")
       .col-auto 
@@ -134,7 +133,7 @@
                   | Atención obstétrica.
                 li.d-flex
                   i.fas.fa-check-circle(style="color:#283DE2")
-                  | Atención n o quirúrgica u obstétrica.
+                  | Atención no quirúrgica u obstétrica.
                 li.d-flex
                   i.fas.fa-check-circle(style="color:#283DE2")
                   | Laboratorio clínico.
@@ -149,7 +148,7 @@
                   | Valoración diagnóstica y manejo médico.
           .row(titulo="Segundo nivel")
             .col-12
-              p.mb-0 Atención ambulatoria especializada: se define como la atención médica, no quirúrgica, no procedimental, no intervencionista, brindada por un profesional de la medicina, especialista en una o más de las disciplinas de esta ciencia y en la cual ha mediado interconsulta o remisión por el profesional general de la salud. Tendrá el mismo carácter técnico - administrativo para los niveles II y III de complejidad atención; junto con lo del primer nivel y más especializados.
+              p.mb-0 Atención ambulatoria especializada: se define como la atención médica, no quirúrgica, no procedimental, no intervencionista, brindada por un profesional de la medicina, especialista en una o más de las disciplinas de esta ciencia y en la cual ha mediado interconsulta o remisión por el profesional general de la salud. Tendrá el mismo carácter técnico - administrativo para los niveles II y III de complejidad de atención; junto con lo del primer nivel y más especializados.
           .row(titulo="Tercer nivel")
             .col-12
               p.mb-0 Condiciones de acceso a los servicios: la utilización de servicios incluidos en este nivel requerirá la aprobación previa de la Entidad Promotora de Salud, quien podrá utilizar para ello comités médicos científicos quienes deberán ceñirse a las guías de atención integral; junto con lo del primer nivel y más especializados.

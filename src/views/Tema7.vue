@@ -8,7 +8,7 @@
       h1 Historias clínicas y custodia de la información
     .row.align-items-center.mb-4
       .col-lg-9.order-2.order-lg-1(data-aos="fade-right")
-        p El referente de las historias clínicas de los usuarios se reglamenta con la Resolución 1995 de 1999 (julio 8) por la cual se establecen normas para el manejo de la historia clínica y la Resolución 839 de 2017 que tiene por objeto establecer el manejo, custodia, tiempo de retención, conservación y disposición final de los expedientes de las historias clínicas, así como reglamentar el procedimiento que deben adelantar las entidades del SGSSS-, para el manejo de estas en caso de liquidación.
+        p El referente de las historias clínicas de los usuarios se reglamenta con la Resolución 1995 de 1999 (julio 8) por la cual se establecen normas para el manejo de la historia clínica y la Resolución 839 de 2017 que tiene por objeto establecer el manejo, custodia, tiempo de retención, conservación y disposición final de los expedientes de las historias clínicas, así como reglamentar el procedimiento que deben adelantar las entidades del SGSSS, para el manejo de estas en caso de liquidación.
         .row
           .col-12
             .py-2.pe-2.bg-c22

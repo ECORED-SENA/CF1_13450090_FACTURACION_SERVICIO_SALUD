@@ -20,7 +20,6 @@
             p.mb-0 #[b Tabla 2.] Clasificación del “Triage”
           .tabla-a.color-secundario.mb-5(data-aos="fade-down")
             table
-              caption Referencia Tabla - Norma APA
               thead
                 tr
                   th TRIAGE I
@@ -50,8 +49,8 @@
                 tr
                   td(style="background-color:#FFAFAF !important") #[b ATENCIÓN:] Inmediata.
                   td(style="background-color:#B1D8FF !important") #[b ATENCIÓN:] Dentro de los siguientes 30 minutos.
-                  td(style="background-color:#90CCA4 !important") #[b ATENCIÓN:] Hasta 2 Horas.
-                  td(style="background-color:#A4DCBC !important") #[b ATENCIÓN:] De 2 Hasta 4 Horas.
+                  td(style="background-color:#90CCA4 !important") #[b ATENCIÓN:] Hasta 2 horas.
+                  td(style="background-color:#A4DCBC !important") #[b ATENCIÓN:] De 2 hasta 4 horas.
                   td(style="background-color:#CDF1DC !important") #[b ATENCIÓN:] Cita por consulta externa.
           p(data-aos="fade-right") El facturador tendrá que verificar y tener en cuenta algunos de los siguientes procedimientos, mediante diferentes medios telemáticos, internet, y bases de datos.
     .row.mb-4(data-aos="fade-down")
@@ -87,10 +86,10 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Informe de urgencias")
             .col-12
-              p.mb-0 Todo prestador de servicios de salud debe informar obligatoriamente a la entidad responsable del pago, el ingreso de pacientes al servicio de urgencias dentro de las 24 horas siguientes al inicio de la atención. El informe se realiza mediante el diligenciamiento y envío del anexo No 2 de la resolución 3047 de 2008.
+              p.mb-0 Todo prestador de servicios de salud debe informar obligatoriamente a la entidad responsable del pago, el ingreso de pacientes al servicio de urgencias dentro de las 24 horas siguientes al inicio de la atención. El informe se realiza mediante el diligenciamiento y envío del anexo No. 2 de la Resolución 3047 de 2008.
           .row(titulo="Autorización de servicios posteriores")
             .col-12
-              p Las entidades responsables del pago deben responder a las solicitudes de autorización de servicios (anexo 4 de la resolución 3047 de 2008) en los siguientes términos:
+              p Las entidades responsables del pago deben responder a las solicitudes de autorización de servicios (anexo 4 de la Resolución 3047 de 2008) en los siguientes términos:
               ul.lista-ul
                 li.d-flex
                   i.fas.fa-check-circle(style="color:#283DE2")

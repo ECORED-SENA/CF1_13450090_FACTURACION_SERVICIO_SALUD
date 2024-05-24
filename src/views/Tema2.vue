@@ -45,13 +45,13 @@
                   | Valor en letras y números.
                 li.d-flex
                   i.fas.fa-check-circle(style="color:#F1C12C")
-                  | Nombre del prestador del servicio (Dirección y teléfono de contacto).
+                  | Nombre del prestador del servicio (dirección y teléfono de contacto).
                 li.d-flex
                   i.fas.fa-check-circle(style="color:#F1C12C")
                   | Descripción del servicio.
                 li.d-flex
                   i.fas.fa-check-circle(style="color:#F1C12C")
-                  | Identificación del usuario a quien se le prestó el servicio (Dirección y teléfono de contacto).
+                  | Identificación del usuario a quien se le prestó el servicio (dirección y teléfono de contacto).
                 li.d-flex
                   i.fas.fa-check-circle(style="color:#F1C12C")
                   | Firma de quien recibió el servicio.
@@ -69,7 +69,7 @@
                     figure
                       img(src='@/assets/curso/tema2/img3.png', style="width:80px" alt='').m-auto
                   .col
-                    p.mb-0 EI área de facturación debe prestar especial atención al alistamiento de la factura y sus soportes, ya que cualquier error puede comprometer los recursos económicos de la institución. Si el facturador notifica oportu namente cualquier error o inconsistencia, garantizará el flujo de efectivo necesario para la operatividad del sistema.
+                    p.mb-0 EI área de facturación debe prestar especial atención al alistamiento de la factura y sus soportes, ya que cualquier error puede comprometer los recursos económicos de la institución. Si el facturador notifica oportunamente cualquier error o inconsistencia, garantizará el flujo de efectivo necesario para la operatividad del sistema.
 
 </template>
 
