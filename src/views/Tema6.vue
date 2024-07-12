@@ -20,7 +20,7 @@
               figure
                 img(src='@/assets/curso/tema6/img2.svg', style="width:70px" alt='').m-auto
             .col
-              p El RIPS provee los datos mínimos y básicos que se requieren para hacer seguimiento al Sistema de Prestaciones de Salud en el SGSSS, en relación con el paquete obligatorio de servicios (POS y POSS).
+              p El RIPS provee los datos mínimos y básicos que se requieren para hacer seguimiento al Sistema de Prestaciones de Salud en el SGSSS, en relación con el paquete obligatorio de servicios (PBS y POSS).
               p.mb-0 Tomado de la Resolución 3374 de 2000.
     p.mb-5 El Registro Individual de Prestación de Servicios de Salud, RIPS, está conformado por tres clases de datos:
     .row.bg-c4.mb-5
@@ -149,13 +149,15 @@
           img(src='@/assets/curso/tema6/img11.svg', style="width:80px" alt='').m-auto
       .col(data-aos="fade-left")
         p.mb-0 Los archivos de datos deben identificarse con el tipo de archivo (dos caracteres), el número de la remisión de los datos (de uno a seis caracteres), para un nombre con un total máximo de ocho caracteres más la extensión del archivo que debe ser TXT.
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.order-2.order-lg-1.pe-lg-0(data-aos="fade-right")
         .p-4.bg-c15
           p.mb-0 Las cuentas sin RIPS no son radicadas para pagos, los archivos planos con la información correspondiente a los registros deben ser validados con el fin de optimizar el desembolso del recurso previa auditoría por parte del responsable de pago.
       .col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2.ps-lg-0(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema6/img2.png', style="width:410px" alt='').m-auto
+    p Actualmente nos encontramos en un proceso de transición hacia un nuevo modelo de preparación, presentación y validación de RIPS, aunque la Resolución 3374 de 2000 aún se encuentra vigente, se espera que lo esté en lo que queda del año 2024. Las IPS se encuentran en este momento preparando el nuevo escenario que debió iniciar el pasado 1 de abril, plazo ampliado hasta el próximo 1 de octubre, pero que se espera sea ampliado nuevamente para inicios del próximo año 2025.
+    p.mb-0 Los contenidos y exigencias del nuevo modelo, están determinados en la Resolución 2275 de 2023, la cual corresponde a información relevante y en transición al nuevo modelo, que será exigido muy probablemente a partir de finales de este año o inicios del próximo.
 
 </template>
 

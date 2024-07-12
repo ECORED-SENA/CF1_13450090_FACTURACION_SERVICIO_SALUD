@@ -28,8 +28,8 @@
                       img(src='@/assets/curso/tema4/img1.png', style='width:280px' alt="").m-auto
                 .row.justify-content-center
                   .col-lg-7.mb-4.mb-lg-0
-                    p #[b Decreto 4747 de 2007]
-                    p.mb-0 Regula aspectos de las relaciones entre los prestadores de servicios de salud y las entidades responsables del pago de los servicios de salud.
+                    p #[b Decreto 441 de 2022]
+                    p.mb-0 “Por medio del cual se sustituye el Capítulo 4 del Título 3 de la Parte 5 del Libro 2 del Decreto 780 de 2016 relativo a los acuerdos de voluntades entre las entidades responsables de pago, los prestadores de servicios de salud y los proveedores de tecnologías en salud”.
                   .col-lg-4
                     figure
                       img(src='@/assets/curso/tema4/img2.png', style='width:280px' alt="").m-auto
@@ -43,14 +43,14 @@
                 .row.justify-content-center
                   .col-lg-7.mb-4.mb-lg-0
                     p #[b Resolución 1479 de 2015]
-                    p.mb-0 Señala el procedimiento para el cobro y pago de servicios y tecnologías sin cobertura en el POS para afiliados al régimen subsidiado.
+                    p.mb-0 Señala el procedimiento para el cobro y pago de servicios y tecnologías sin cobertura en el PBS para afiliados al régimen subsidiado.
                   .col-lg-4
                     figure
                       img(src='@/assets/curso/tema4/img4.png', style='width:280px' alt="").m-auto
                 .row.justify-content-center
                   .col-lg-7.mb-4.mb-lg-0
-                    p #[b Resolución 6408 de 2016]
-                    p.mb-0 Modifica el Plan de Beneficios en Salud con cargo a la UPC e incluye anexos técnicos.
+                    p #[b Resolución 2366 de 2023]
+                    p.mb-0 Por la cual se actualizan integralmente los servicios y tecnologías de salud, financiados con recursos de la Unidad de Pago por Capitación (UPC).
                   .col-lg-4
                     figure
                       img(src='@/assets/curso/tema4/img5.png', style='width:280px' alt="").m-auto
@@ -206,6 +206,7 @@
                   .col-lg-4
                     figure
                       img(src='@/assets/curso/tema4/img13.png', style='width:280px' alt="").m-auto
+    p.mb-5 Respecto a los Acuerdo de voluntades, la norma sugerida es el Decreto 441 de 2022, la cual hace parte integral del Decreto Reglamentario Único 780 de 2016, en reemplazo del Decreto 4747 de 2007.
     .row.mb-4(data-aos="fade-down")
       .col-auto 
         .px-4.bg-c12

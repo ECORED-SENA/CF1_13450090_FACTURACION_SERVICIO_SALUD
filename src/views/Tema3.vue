@@ -17,7 +17,7 @@
                   figure
                     img(src='@/assets/curso/tema3/img1.svg', style="width:70px" alt='').m-auto
                 .col
-                  p.mb-0 #[b La Resolución 5592 de 2015], emitida por el Ministerio de la Protección Social, actualizó integralmente el Plan de Beneficios en Salud con cargo a la Unidad de Pago por Capitación. Esto significa que el Estado colombiano asigna a las Entidades Promotoras de Salud un valor económico por cada persona afiliada, determinado según su ubicación geográfica, edad y sexo, para su administración. Además, los servicios que prestan las IPS deben regirse por los servicios autorizados en el Plan de beneficios para su cobro a las administradoras.
+                  p.mb-0 #[b Resolución 2366 de 2023], La presente resolución, tiene por objeto establecer los servicios y tecnologías de salud financiados con recursos de la UPC, que deberán ser garantizados por las entidades promotoras de salud - EPS y las entidades adaptadas, a sus afiliados en las condiciones de calidad establecidas por la normatividad vigente.
       .col-lg-3.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/img1.png', style="width:290px" alt='').m-auto
@@ -73,6 +73,16 @@
                       td Caso de cobertura especial - Consultar condiciones.
                       td Nietos que dependen económicamente del abuelo.
                       td Registro civil para demostrar parentesco.
+              ul.lista-ul
+                li.d-flex
+                  i.fas.fa-check-circle(style="color:#283DE2")
+                  | Primer nivel - Baja complejidad.
+                li.d-flex
+                  i.fas.fa-check-circle(style="color:#283DE2")
+                  | Segundo nivel - Mediana complejidad.
+                li.d-flex
+                  i.fas.fa-check-circle(style="color:#283DE2")
+                  | Tercer y Cuarto nivel - Alta complejidad.
     .row.mb-4(data-aos="fade-down")
       .col-auto 
         .px-4.bg-c12
@@ -198,7 +208,7 @@
                 img(src='@/assets/curso/tema3/img3.svg', style="width:50px" alt='').m-auto
             .col
               h3 Manuales tarifarios
-    .row.mb-4
+    .row.mb-5
       .col-lg-9.order-2.order-lg-1(data-aos="fade-right")
         p Existen el Manual Tarifario ISS (Acuerdo 256 de 2001 y Acuerdo 312 de 2004) y el Manual Tarifario SOAT (Decreto 2423 de 1996) como referentes para el cobro de atenciones en la prestación del servicio de salud en Colombia, sin dejar de lado que los contratos que regulan las operaciones comerciales de la prestación del servicio pueden variar según las negociaciones establecidas por las partes contratantes.
         p.mb-0 Este manual está organizado y clasificado por nivel de atención en el Plan de Beneficios del Sistema, como se ve a continuación:
@@ -217,6 +227,7 @@
                 .col-12
                   .p-4.bg-c8
                     p.mb-0 EI Manual Tarifario ISS utiliza la Unidad de Valor Relativo (UVR) según puntos establecidos, y se pueden pactar porcentajes adicionales o reducidos de puntos de valor para cada cobro. Por su parte, eI tarifario SOAT cuenta con una tarifa establecida anualmente y se actualiza en enero de cada año, acorde con el incremento del salario mínimo legal vigente en el país.
+    p.mb-0 Se considera que el Manual ISS más utilizado es el Acuerdo 209 de 1999, comúnmente conocido como el ISS 2000 y para el Manuel SOAT, se debe tener presente la normativa para el régimen tarifario vigente según Anexo 1 del Decreto Reglamentario Único 780 de 2016, modificado por el Decreto 2644 de 2022.
 
 </template>
 

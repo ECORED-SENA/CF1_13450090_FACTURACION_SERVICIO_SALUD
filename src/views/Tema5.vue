@@ -13,6 +13,7 @@
       .col.ps-lg-0(data-aos="fade-left")
         .p-4.bg-c16.h-100
           p.mb-0 El Ministerio de Protección Social estableció un modelo de selección y clasificación de urgencias, conocido como #[b "Triage"], que los prestadores de servicios de salud con servicios de urgencias habilitados deben cumplir obligatoriamente.
+    p.mb-5 La Resolución 5596 de 2015, determina la clasificación del TRIAGE en urgencias.
     .row.mb-5
       .col-12
         .px-5.bg-c17
@@ -32,8 +33,8 @@
                   td.text-center #[b Reanimación]
                   td.text-center #[b Emergencia]
                   td.text-center #[b Urgencia]
-                  td.text-center #[b No Urgencia]
-                  td.text-center #[b No Urgencia]
+                  td.text-center #[b Urgencia No Vital]
+                  td.text-center #[b Urgencia No Vital]
                 tr
                   td(style="background-color:#FFAFAF !important") Condiciones de salud extremas que amenazan la vida del paciente.
                   td(style="background-color:#B1D8FF !important") Situación de alto riesgo que representa peligro inminente de estado de salud.
@@ -49,10 +50,11 @@
                 tr
                   td(style="background-color:#FFAFAF !important") #[b ATENCIÓN:] Inmediata.
                   td(style="background-color:#B1D8FF !important") #[b ATENCIÓN:] Dentro de los siguientes 30 minutos.
-                  td(style="background-color:#90CCA4 !important") #[b ATENCIÓN:] Hasta 2 horas.
-                  td(style="background-color:#A4DCBC !important") #[b ATENCIÓN:] De 2 hasta 4 horas.
-                  td(style="background-color:#CDF1DC !important") #[b ATENCIÓN:] Cita por consulta externa.
+                  td(style="background-color:#90CCA4 !important") #[b ATENCIÓN:] dependerá de diversas condiciones propias de la IPS como infraestructura de urgencias, talento humano asistencial, modelo de atención y demanda de servicios de salud en un momento dado.
+                  td(style="background-color:#A4DCBC !important") #[b ATENCIÓN:] dependerá de diversas condiciones propias de la IPS como infraestructura de urgencias, talento humano asistencial, modelo de atención y demanda de servicios de salud en un momento dado.
+                  td(style="background-color:#CDF1DC !important") #[b ATENCIÓN:] dependerá de diversas condiciones propias de la IPS como infraestructura de urgencias, talento humano asistencial, modelo de atención y demanda de servicios de salud en un momento dado.
           p(data-aos="fade-right") El facturador tendrá que verificar y tener en cuenta algunos de los siguientes procedimientos, mediante diferentes medios telemáticos, internet, y bases de datos.
+          p(data-aos="fade-right") La #[b Resolución 5596 de 2015], en su artículo 6, numeral 6.4, dice: “Para las categorías III, IV y V, las instituciones prestadoras de servicios de salud que tengan habilitado el Servicio de Urgencias deben establecer tiempos promedio de atención que serán informados a los pacientes y sus acompañantes. Los tiempos promedio de atención deben ser publicados en un lugar visible del servicio de urgencias”.
     .row.mb-4(data-aos="fade-down")
       .col-auto 
         .px-4.bg-c12
@@ -87,6 +89,9 @@
           .row(titulo="Informe de urgencias")
             .col-12
               p.mb-0 Todo prestador de servicios de salud debe informar obligatoriamente a la entidad responsable del pago, el ingreso de pacientes al servicio de urgencias dentro de las 24 horas siguientes al inicio de la atención. El informe se realiza mediante el diligenciamiento y envío del anexo No. 2 de la Resolución 3047 de 2008.
+          .row(titulo="Solicitud de autorización de servicios de salud")
+            .col-12
+              p.mb-0 Normatizado según Anexo técnico 3 de la Resolución 3047 de 2008.
           .row(titulo="Autorización de servicios posteriores")
             .col-12
               p Las entidades responsables del pago deben responder a las solicitudes de autorización de servicios (anexo 4 de la Resolución 3047 de 2008) en los siguientes términos:
@@ -99,7 +104,8 @@
                   | Para atención de servicios adicionales: dentro de las seis (6) horas siguientes al recibo de la solicitud.
           .row(titulo="Proceso de referencia y contrarreferencia")
             .col-12
-              p.mb-0 El diseño, organización y documentación del proceso de referencia y contrarreferencia, y la operación del sistema correspondiente, son obligaciones de las entidades responsables del pago de servicios de salud. Estas entidades deben disponer de una red de prestadores de servicios de salud que garanticen la disponibilidad y suficiencia de los servicios en todos los niveles de complejidad a su cargo, así como la disponibilidad de la red de transporte y comunicaciones para garantizar la calidad, continuidad e integralidad en la atención.
+              p El diseño, organización y documentación del proceso de referencia y contrarreferencia, y la operación del sistema correspondiente, son obligaciones de las entidades responsables del pago de servicios de salud. Estas entidades deben disponer de una red de prestadores de servicios de salud que garanticen la disponibilidad y suficiencia de los servicios en todos los niveles de complejidad a su cargo, así como la disponibilidad de la red de transporte y comunicaciones para garantizar la calidad, continuidad e integralidad en la atención.
+              p.mb-0 La norma que los determina, es el Anexo técnico 9 y 10 de la Resolución 3047 de 2008.
     .row
       .col-12
         .p-5.bg-c18(data-aos="fade-right")

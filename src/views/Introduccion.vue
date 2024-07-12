@@ -30,7 +30,7 @@
             .col-lg-3.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/intro/img1.png', style="width:270px" alt='').m-auto
-          .row.mb-5
+          .row
             .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
               figure
                 img(src='@/assets/curso/intro/img2.png', style="width:370px" alt='').m-auto
@@ -43,7 +43,9 @@
                         figure
                           img(src='@/assets/curso/intro/img4.svg', style="width:70px" alt='').m-auto
                       .col
-                        p.mb-0 Actualmente, las entidades prestadoras de servicios de salud en Colombia deben garantizar la calidad de sus servicios a los usuarios, como lo establece la Ley 100 de 1993. Para ello, es crucial mejorar continuamente sus procesos de contratación basándose en las normativas actuales que rigen el decreto 4747 de 2007, el cual define los criterios para los acuerdos de voluntades.
+                        p Actualmente, las entidades prestadoras de servicios de salud en Colombia, deben garantizar la calidad de sus servicios a los usuarios, como establece la Ley 100 de 1993. Para ello, es crucial mejorar continuamente sus procesos de contratación, donde la norma sugerida es el Decreto 441 de 2022, el cual hace parte integral del Decreto Reglamentario Único 780 de 2016, en reemplazo del Decreto 4747 de 2007.
+                        p.mb-0 #[b Decreto 441 de 2022:]
+                        p.mb-0 “Por medio del cual se sustituye el Capítulo 4 del Título 3 de la Parte 5 del Libro 2 del Decreto 780 de 2016 relativo a los acuerdos de voluntades entre las entidades responsables de pago, los prestadores de servicios de salud y los proveedores de tecnologías en salud”.
     
 </template>
 

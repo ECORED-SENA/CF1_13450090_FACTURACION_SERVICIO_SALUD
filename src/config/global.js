@@ -126,28 +126,74 @@ export default {
   },
   complementario: [
     {
-      tema:
-        'Sistema de selección y clasificación de pacientes en urgencias “Triage”',
-      referencia: 'Emermédica Oficial (2022). Qué es el triage. YouTube.',
-      tipo: 'Video',
+      tema: 'Normatividad',
+      referencia:
+        'Decreto 4747 de 2007. Por medio del cual se regulan algunos aspectos de las relaciones entre los prestadores de servicios de salud y las entidades responsables del pago de los servicios de salud de la población a su cargo, y se dictan otras disposiciones.',
+      tipo: 'Página web',
       link:
-        'https://www.youtube.com/watch?v=93U719WgxyM&ab_channel=Emerm%C3%A9dicaOficial',
+        'https://www.funcionpublica.gov.co/eva//gestornormativo//norma_pdf.php?i=27905',
     },
     {
-      tema: 'Registro Individual de Prestación de Servicio de Salud (RIPS)',
+      tema: 'Normatividad',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2023). Redes integrales de prestadores de servicios de salud. YouTube.',
-      tipo: 'Video',
+        'Decreto 780 de 2016 Sector Salud y Protección Social. Por medio del cual se expide el Decreto Único Reglamentario del Sector Salud y Protección Social.',
+      tipo: 'Página web',
       link:
-        'https://www.youtube.com/watch?v=ceMzqmSXdOU&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77813',
+    },
+    {
+      tema: 'Tipos de usuarios y planes de beneficios',
+      referencia:
+        'Resolución 2366 de 2023. Por la cual se actualizan integralmente los servicios y tecnologías de salud financiados con recursos de la Unidad de Pago por Capitación (UPC).',
+      tipo: 'Página web',
+      link:
+        'https://www.minsalud.gov.co/Normatividad_Nuevo/Resolucio%CC%81n%20No%202366%20de%202023.pdf',
+    },
+    {
+      tema:
+        'Sistema de selección y clasificación de pacientes en urgencias “Triage”',
+      referencia:
+        'Resolución 5596 de 2015. Por la cual se definen los criterios técnicos para el Sistema de Selección y Clasificación de pacientes en los servicios de urgencias "Triage".',
+      tipo: 'Página web',
+      link:
+        'https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%205596%20de%202015.pdf',
     },
     {
       tema: 'Historias clínicas y custodia de la información',
       referencia:
-        'Noticias Caracol (2018). ¡Es un documento privado! Solo en estos casos puede pedir copia de su historia clínica. YouTube.',
-      tipo: 'Video',
+        'Guzmán F. y Arias, C. A. (2012). La historia clínica: elemento fundamental del acto médico. Revista Colombiana de Cirugía, 27(1). pp. 15-24.',
+      tipo: 'PDF',
+      link: 'http://www.scielo.org.co/pdf/rcci/v27n1/v27n1a2.pdf',
+    },
+    {
+      tema: 'Historias clínicas y custodia de la información',
+      referencia:
+        'Historiaclinicamedica.Co. (s.f.). Historia Clínica Electrónica.',
+      tipo: 'Página web',
       link:
-        'https://www.youtube.com/watch?v=uYCnttSp9Ew&ab_channel=NoticiasCaracol',
+        'https://historiaclinicamedica.co/las-partes-de-una-historia-clinica-guia-completa/',
+    },
+    {
+      tema: 'Historias clínicas y custodia de la información',
+      referencia:
+        'De la O., D. (2021). Partes de una historia clínica. Agenda Pro.',
+      tipo: 'Página web',
+      link: 'https://agendapro.com/blog/partes-de-una-historia-clinica/',
+    },
+    {
+      tema: 'Historias clínicas y custodia de la información',
+      referencia:
+        'Sánchez, E. y Solís, A. (s.f.). Etimologías médicas. Universidad de Guadalajara - Centro Universitario del Sur - Departamento de salud y bienestar.',
+      tipo: 'PDF',
+      link:
+        'https://www.uv.mx/personal/rcroda/files/2019/07/taller_etimologias.pdf',
+    },
+    {
+      tema: 'Historias clínicas y custodia de la información',
+      referencia: 'Nova, S. (2023). Sistemas del cuerpo humano. KEN HUB.',
+      tipo: 'Página web',
+      link:
+        'https://www.kenhub.com/es/library/anatomia-es/sistemas-del-cuerpo-humano',
     },
   ],
   glosario: [

@@ -17,7 +17,7 @@
         figure
           img(src='@/assets/curso/tema1/img2.svg', style="width:70px" alt='').m-auto
       .col(data-aos="fade-left")
-        p.mb-0 Todo inició en el año #[b 1993 con la creación de la Ley 100], donde se estableció el #[b Sistema General de Seguridad Social en Salud (SGSSS)] entre otros sistemas complementarios. Desde entonces, han surgido una serie de normas que han regulado este sistema en términos de cobertura, accesibilidad y procesos internos de sus actores (EPS, IPS, FOSYGA, entidades encargadas del pago). Como normativa relevante se señala:
+        p.mb-0 Todo inició en el año #[b 1993 con la creación de la Ley 100], donde se estableció el #[b Sistema General de Seguridad Social en Salud (SGSSS)] entre otros sistemas complementarios. Desde entonces, han surgido una serie de normas que han regulado este sistema en términos de cobertura, accesibilidad y procesos internos de sus actores (EPS, IPS, ADRES, entidades encargadas del pago). Como normativa relevante se señala:
     .row.bg-c4.mb-5
       .col-12
         .p-5
@@ -27,14 +27,6 @@
                 img(src='@/assets/curso/tema1/img1.png', style="width:320px" alt='').m-auto
             .col-lg-7(data-aos="fade-left")
               SlyderF(columnas="col-md-6")
-                .tarjeta.color-acento-contenido.p-4
-                  .row.justify-content-center.mb-3
-                    .col-3
-                      img(src='@/assets/curso/tema1/img3.svg' alt='AvatarTop')
-                  .row.justify-content-center.mb-3
-                    .col-auto
-                      p.txt-c1.mb-0 #[b Decreto 4747 de 2007]
-                  p.mb-0 Regula aspectos de las relaciones entre prestadores de servicios de salud y entidades responsables del pago de los servicios de salud.
                 .tarjeta.color-acento-contenido.p-4
                   .row.justify-content-center.mb-3
                     .col-3
@@ -66,15 +58,31 @@
                   .row.justify-content-center.mb-3
                     .col-auto
                       p.txt-c1.mb-0 #[b Resolución 1479 de 2015]
-                  p.mb-0 Señala el procedimiento para el cobro y pago de servicios y tecnologías sin cobertura en el POS, para afiliados al Régimen Subsidiado.
+                  p.mb-0 Señala el procedimiento para el cobro y pago de servicios y tecnologías sin cobertura en el PBS, para afiliados al Régimen Subsidiado.
                 .tarjeta.color-acento-contenido.p-4
                   .row.justify-content-center.mb-3
                     .col-3
                       img(src='@/assets/curso/tema1/img3.svg' alt='AvatarTop')
                   .row.justify-content-center.mb-3
                     .col-auto
-                      p.txt-c1.mb-0 #[b Resolución 6408 de 2016]
-                  p.mb-0 Modifica el Plan de Beneficios en Salud con cargo a la UPC e incluye anexos técnicos.
+                      p.txt-c1.mb-0 #[b Decreto Reglamentario Único 780 de 2016]
+                  p.mb-0 Compila y simplifica todas las normas reglamentarias preexistentes en el sector de la salud, tiene como objetivo racionalizar las normas de carácter reglamentario que rigen en el sector y contar con un instrumento jurídico único.
+                .tarjeta.color-acento-contenido.p-4
+                  .row.justify-content-center.mb-3
+                    .col-3
+                      img(src='@/assets/curso/tema1/img3.svg' alt='AvatarTop')
+                  .row.justify-content-center.mb-3
+                    .col-auto
+                      p.txt-c1.mb-0 #[b Decreto 441 de 2022]
+                  p.mb-0 “Por medio del cual se sustituye el Capítulo 4 del Título 3 de la Parte 5 del Libro 2 del Decreto 780 de 2016 relativo a los acuerdos de voluntades entre las entidades responsables de pago, los prestadores de servicios de salud y los proveedores de tecnologías en salud”.
+                .tarjeta.color-acento-contenido.p-4
+                  .row.justify-content-center.mb-3
+                    .col-3
+                      img(src='@/assets/curso/tema1/img3.svg' alt='AvatarTop')
+                  .row.justify-content-center.mb-3
+                    .col-auto
+                      p.txt-c1.mb-0 #[b Resolución 2366 de 2023]
+                  p.mb-0 Por la cual se actualizan integralmente los servicios y tecnologías de salud, financiados con recursos de la Unidad de Pago por Capitación (UPC).
     p.mb-3(data-aos="fade-down") En las áreas de facturación, es necesario contar con una lista de chequeo que garantice la verificación de los soportes y con un convenio previamente establecido de acuerdo con las tarifas pactadas entre las entidades responsables del pago y los prestadores de servicios de salud (Acuerdo de voluntades).
     .row.align-items-center.mb-3
       .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
@@ -103,7 +111,7 @@
               figure
                 img(src='@/assets/curso/tema1/img3.png', style="width:270px" alt='').m-auto
             .col
-              p.mb-0 El #[b FOSYGA] (Fondo de Solidaridad y Garantía), es claramente el medio por el cual los aportes económicos de todos los colombianos al Sistema de Seguridad Social en Salud se canalizan. Estos aportes se reciben a través de cualquier entidad bancaria y se dirigen a este fondo, el cual está dividido en subcuentas y administra todos los recursos financieros. Por otro lado, las Entidades Promotoras de Salud (EPS) reportan a los usuarios discriminados por edad, sexo y lugar de residencia, mediante un mecanismo llamado compensación. A su vez, el fondo distribuye recursos según la Unidad de Pago por Capitación (UPC).
+              p.mb-0 El #[b ADRES] (Administradora de los Recursos del Sistema General de Seguridad Social en Salud), es claramente el medio por el cual los aportes económicos de todos los colombianos al Sistema de Seguridad Social en Salud se canalizan. Estos aportes se reciben a través de cualquier entidad bancaria y se dirigen a este fondo, el cual está dividido en subcuentas y administra todos los recursos financieros. Por otro lado, las Entidades Promotoras de Salud (EPS) reportan a los usuarios discriminados por edad, sexo y lugar de residencia, mediante un mecanismo llamado compensación. A su vez, el fondo distribuye recursos según la Unidad de Pago por Capitación (UPC).
       
 </template>
 
