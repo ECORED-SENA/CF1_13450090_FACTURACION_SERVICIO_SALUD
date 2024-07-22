@@ -226,8 +226,8 @@
               .row
                 .col-12
                   .p-4.bg-c8
-                    p.mb-0 EI Manual Tarifario ISS utiliza la Unidad de Valor Relativo (UVR) según puntos establecidos, y se pueden pactar porcentajes adicionales o reducidos de puntos de valor para cada cobro. Por su parte, eI tarifario SOAT cuenta con una tarifa establecida anualmente y se actualiza en enero de cada año, acorde con el incremento del salario mínimo legal vigente en el país.
-    p.mb-0 Se considera que el Manual ISS más utilizado es el Acuerdo 209 de 1999, comúnmente conocido como el ISS 2000 y para el Manuel SOAT, se debe tener presente la normativa para el régimen tarifario vigente según Anexo 1 del Decreto Reglamentario Único 780 de 2016, modificado por el Decreto 2644 de 2022.
+                    p.mb-0 El Manual Tarifario ISS utiliza la Unidad de Valor Relativo (UVR) según puntos establecidos, y se pueden pactar porcentajes adicionales o reducidos de puntos de valor para cada cobro. Por su parte, el tarifario SOAT cuenta con una tarifa establecida anualmente y se actualiza en enero de cada año, acorde con el incremento del salario mínimo legal vigente en el país.
+    p.mb-0 Se considera que el Manual ISS más utilizado es el Acuerdo 209 de 1999, comúnmente conocido como el ISS 2000 y para el Manual SOAT, se debe tener presente la normativa para el régimen tarifario vigente según Anexo 1 del Decreto Reglamentario Único 780 de 2016, modificado por el Decreto 2644 de 2022.
 
 </template>
 

@@ -86,7 +86,7 @@
               .row
                 .col-12
                   .p-4.bg-c8
-                    p.mb-0 EI facturador desarrolla las competencias para identificar los tipos de acuerdos, para así cobrar los servicios prestados ante las Entidades responsables, según el Decreto 4747 de 2007, que tiene en cuenta diferentes tipos de acuerdos de voluntades.
+                    p.mb-0 El facturador desarrolla las competencias para identificar los tipos de acuerdos, para así cobrar los servicios prestados ante las Entidades responsables, según el Decreto 4747 de 2007, que tiene en cuenta diferentes tipos de acuerdos de voluntades.
     .row.mb-5
       .col-lg-8(data-aos="fade-right")
         p La relación contractual entre los prestadores y aseguradores se modifica automáticamente, de acuerdo con la dinámica de la actividad regulatoria. Los acuerdos de voluntades se realizan entre los representantes legales de las IPS y las EPS, y tienen que ver con la contratación de los servicios en salud. Para este caso, se contemplan varios aspectos, como pueden ser:
@@ -206,7 +206,7 @@
                   .col-lg-4
                     figure
                       img(src='@/assets/curso/tema4/img13.png', style='width:280px' alt="").m-auto
-    p.mb-5 Respecto a los Acuerdo de voluntades, la norma sugerida es el Decreto 441 de 2022, la cual hace parte integral del Decreto Reglamentario Único 780 de 2016, en reemplazo del Decreto 4747 de 2007.
+    p.mb-5 Respecto a los Acuerdos de voluntades, la norma sugerida es el Decreto 441 de 2022, la cual hace parte integral del Decreto Reglamentario Único 780 de 2016, en reemplazo del Decreto 4747 de 2007.
     .row.mb-4(data-aos="fade-down")
       .col-auto 
         .px-4.bg-c12

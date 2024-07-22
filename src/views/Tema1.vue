@@ -92,7 +92,7 @@
               img(src='@/assets/curso/tema1/img4.svg', style="width:270px" alt='').m-auto
           .col-md-8.col-lg.ps-0
             .p-4.bg-c5
-              p.mb-0 #[b En su totalidad, tanto las IPS como las EPS cuentan con sistemas operativos de confianza adaptados a las necedidades de cada uno.]
+              p.mb-0 #[b En su totalidad, tanto las IPS como las EPS cuentan con sistemas operativos de confianza adaptados a las necesidades de cada uno.]
         .row
           .col-md-auto.d-none.d-md-block
             figure

@@ -236,57 +236,57 @@ export default {
   referencias: [
     {
       referencia:
-        'Colombia. (1993). Ley 100 de 23 de diciembre de 1993 por la cual se crea el sistema de seguridad social integral y se dictan otras disposiciones. Diario Oficial No. 41.148.',
+        'Colombia. (1993). Ley 100 de 23 de diciembre de 1993, por la cual se crea el sistema de seguridad social integral y se dictan otras disposiciones. Diario Oficial No. 41.148.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de la Protección Social. (2007). Decreto 4747 de 7 de diciembre de 2007 Por medio del cual se regulan algunos aspectos de las relaciones entre los prestadores de servicios de salud y las entidades responsables del pago de los servicios de salud de la población a su cargo, y se dictan otras disposiciones Diario Oficial No. 46.827.',
+        'Ministerio de la Protección Social. (2007). Decreto 4747 de 7 de diciembre de 2007, Por medio del cual se regulan algunos aspectos de las relaciones entre los prestadores de servicios de salud y las entidades responsables del pago de los servicios de salud de la población a su cargo, y se dictan otras disposiciones Diario Oficial No. 46.827.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de la Protección Social. (2008). Resolución 3047 de 29 de agosto de 2008 por la cual se definen, para todos los actores del Sistema General de Seguridad Social en Salud, los procedimientos y condiciones que deben cumplir los Prestadores de Servicios de Salud y las Entidades Promotoras de Salud para la solicitud, autorización, realización y cobro de los servicios de salud. Diario Oficial No. 47.091.',
+        'Ministerio de la Protección Social. (2008). Resolución 3047 de 29 de agosto de 2008, por la cual se definen, para todos los actores del Sistema General de Seguridad Social en Salud, los procedimientos y condiciones que deben cumplir los Prestadores de Servicios de Salud y las Entidades Promotoras de Salud para la solicitud, autorización, realización y cobro de los servicios de salud. Diario Oficial No. 47.091.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de la Protección Social. (2012). Resolución 4331 de 2012 por la cual se adicionan y modifican parcialmente la Resolución 3047 de 2008.',
+        'Ministerio de la Protección Social. (2012). Resolución 4331 de 2012, por la cual se adicionan y modifican parcialmente la Resolución 3047 de 2008.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de la Protección Social. (2015). Resolución 1479 de 2015 por la cual se señala el procedimiento para el cobro y pago de servicios y tecnologías sin cobertura en el POS, para afiliados al Régimen Subsidiado.',
+        'Ministerio de la Protección Social. (2015). Resolución 1479 de 2015, por la cual se señala el procedimiento para el cobro y pago de servicios y tecnologías sin cobertura en el POS, para afiliados al Régimen Subsidiado.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de la Protección Social. (2016). Resolución 6408 de 2016 por la cual se modifica el Plan de Beneficios en Salud con cargo a la UPC e incluye anexos técnicos.',
+        'Ministerio de la Protección Social. (2016). Resolución 6408 de 2016, por la cual se modifica el Plan de Beneficios en Salud con cargo a la UPC e incluye anexos técnicos.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de la Protección Social. (2017). Resolución 1132 de 2017 por la cual se modifica la Resolución 4678 de 2015, adopta la CUPS y dicta otras disposiciones relacionadas con la Resolución 6408 de 2016.',
+        'Ministerio de la Protección Social. (2017). Resolución 1132 de 2017, por la cual se modifica la Resolución 4678 de 2015, adopta la CUPS y dicta otras disposiciones relacionadas con la Resolución 6408 de 2016.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de la Protección Social. (2015). Resolución 5592 de 2015 que actualiza integralmente el Plan de Beneficios en Salud con cargo a la Unidad de Pago por Capitación.',
+        'Ministerio de la Protección Social. (2015). Resolución 5592 de 2015, que actualiza integralmente el Plan de Beneficios en Salud con cargo a la Unidad de Pago por Capitación.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de la Protección Social. (2000). Resolución 3374 de 2000 que reglamenta los datos básicos que deben reportar los prestadores de servicios de salud y las entidades administradoras de planes de beneficios sobre los servicios de salud prestados.',
+        'Ministerio de la Protección Social. (2000). Resolución 3374 de 2000, que reglamenta los datos básicos que deben reportar los prestadores de servicios de salud y las entidades administradoras de planes de beneficios sobre los servicios de salud prestados.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de la Protección Social. (2016). Resolución 6411 de 2016 que fija el valor de la UPC para la cobertura del plan de beneficios en salud de los regímenes contributivo y subsidiado en la vigencia 2017.',
+        'Ministerio de la Protección Social. (2016). Resolución 6411 de 2016, que fija el valor de la UPC para la cobertura del plan de beneficios en salud de los regímenes contributivo y subsidiado en la vigencia 2017.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de la Protección Social. (2017). Resolución 1687 de 2017 que sustituye el Anexo 2 "Listado de Procedimientos en Salud del Plan de Beneficios en Salud con cargo a la UPC" de la Resolución 6408 de 2016 y dicta otras disposiciones.',
+        'Ministerio de la Protección Social. (2017). Resolución 1687 de 2017, que sustituye el Anexo 2 "Listado de Procedimientos en Salud del Plan de Beneficios en Salud con cargo a la UPC" de la Resolución 6408 de 2016 y dicta otras disposiciones.',
       link: '',
     },
   ],

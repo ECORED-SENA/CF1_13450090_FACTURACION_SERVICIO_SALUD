@@ -31,7 +31,7 @@
             figure.mt-2
               img(src='@/assets/curso/tema7/img3.svg', style="width:70px" alt='').m-auto
           .col
-            p.mb-0 La historia clínica, que es un documento privado, obligatorio y sometido a reserva, en el cual se registran cronológicamente las condiciones de salud del paciente, los actos médicos y los demás procedimientos ejecutados por el equipo de salud que interviene en su atención. Dicho documento únicamente puede ser conocido por terceros previa autorización del paciente o en los casos previstos por la ley. Se entiende por estado de salud los datos e informes acerca de la condición somática, psíquica, social, cultural, económica y medioambiental que pueden incidir en la salud de la persona.
+            p.mb-0 La historia clínica, que es un documento privado, obligatorio y sometido a reserva, en el cual se registran cronológicamente las afecciones de salud del paciente, los actos médicos y los demás procedimientos ejecutados por el equipo de salud que interviene en su atención. Dicho documento únicamente puede ser conocido por terceros previa autorización del paciente o en los casos previstos por la ley. Se entiende por estado de salud los datos e informes acerca de la condición somática, psíquica, social, cultural, económica y medioambiental que pueden incidir en la salud de la persona.
     p La historia clínica de pacientes atendidos, es la fase asistencial fundamental para la facturación de servicios de salud, por ello es importante complementar la información con definiciones, conceptos y partes de la historia clínica, y para ello, lo invitamos a consultar en el material complementario:
     ul.lista-ul
       li.d-flex
